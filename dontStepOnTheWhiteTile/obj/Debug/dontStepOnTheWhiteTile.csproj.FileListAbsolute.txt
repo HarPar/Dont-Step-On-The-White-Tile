@@ -1,0 +1,45 @@
+c:\users\harshil\documents\visual studio 2013\Projects\dontStepOnTheWhiteTile\dontStepOnTheWhiteTile\bin\Debug\dontStepOnTheWhiteTile.exe.config
+c:\users\harshil\documents\visual studio 2013\Projects\dontStepOnTheWhiteTile\dontStepOnTheWhiteTile\bin\Debug\dontStepOnTheWhiteTile.exe
+c:\users\harshil\documents\visual studio 2013\Projects\dontStepOnTheWhiteTile\dontStepOnTheWhiteTile\bin\Debug\dontStepOnTheWhiteTile.pdb
+c:\users\harshil\documents\visual studio 2013\Projects\dontStepOnTheWhiteTile\dontStepOnTheWhiteTile\obj\Debug\dontStepOnTheWhiteTile.csprojResolveAssemblyReference.cache
+c:\users\harshil\documents\visual studio 2013\Projects\dontStepOnTheWhiteTile\dontStepOnTheWhiteTile\obj\Debug\dontStepOnTheWhiteTile.Form1.resources
+c:\users\harshil\documents\visual studio 2013\Projects\dontStepOnTheWhiteTile\dontStepOnTheWhiteTile\obj\Debug\dontStepOnTheWhiteTile.Properties.Resources.resources
+c:\users\harshil\documents\visual studio 2013\Projects\dontStepOnTheWhiteTile\dontStepOnTheWhiteTile\obj\Debug\dontStepOnTheWhiteTile.csproj.GenerateResource.Cache
+c:\users\harshil\documents\visual studio 2013\Projects\dontStepOnTheWhiteTile\dontStepOnTheWhiteTile\obj\Debug\dontStepOnTheWhiteTile.exe
+c:\users\harshil\documents\visual studio 2013\Projects\dontStepOnTheWhiteTile\dontStepOnTheWhiteTile\obj\Debug\dontStepOnTheWhiteTile.pdb
+F:\Old Laptop\Projects\dontStepOnTheWhiteTile\dontStepOnTheWhiteTile\bin\Debug\dontStepOnTheWhiteTile.exe.config
+F:\Old Laptop\Projects\dontStepOnTheWhiteTile\dontStepOnTheWhiteTile\obj\Debug\dontStepOnTheWhiteTile.exe
+F:\Old Laptop\Projects\dontStepOnTheWhiteTile\dontStepOnTheWhiteTile\obj\Debug\dontStepOnTheWhiteTile.pdb
+F:\Old Laptop\Projects\dontStepOnTheWhiteTile\dontStepOnTheWhiteTile\bin\Debug\dontStepOnTheWhiteTile.exe
+F:\Old Laptop\Projects\dontStepOnTheWhiteTile\dontStepOnTheWhiteTile\bin\Debug\dontStepOnTheWhiteTile.pdb
+F:\Old Laptop\Projects\dontStepOnTheWhiteTile\dontStepOnTheWhiteTile\obj\Debug\dontStepOnTheWhiteTile.csprojResolveAssemblyReference.cache
+F:\Old Laptop\Projects\dontStepOnTheWhiteTile\dontStepOnTheWhiteTile\obj\Debug\dontStepOnTheWhiteTile.Form1.resources
+F:\Old Laptop\Projects\dontStepOnTheWhiteTile\dontStepOnTheWhiteTile\obj\Debug\dontStepOnTheWhiteTile.Properties.Resources.resources
+F:\Old Laptop\Projects\dontStepOnTheWhiteTile\dontStepOnTheWhiteTile\obj\Debug\dontStepOnTheWhiteTile.csproj.GenerateResource.Cache
+E:\Old Laptop\Projects\dontStepOnTheWhiteTile\dontStepOnTheWhiteTile\bin\Debug\dontStepOnTheWhiteTile.exe.config
+E:\Old Laptop\Projects\dontStepOnTheWhiteTile\dontStepOnTheWhiteTile\obj\Debug\dontStepOnTheWhiteTile.exe
+E:\Old Laptop\Projects\dontStepOnTheWhiteTile\dontStepOnTheWhiteTile\obj\Debug\dontStepOnTheWhiteTile.pdb
+E:\Old Laptop\Projects\dontStepOnTheWhiteTile\dontStepOnTheWhiteTile\bin\Debug\dontStepOnTheWhiteTile.exe
+E:\Old Laptop\Projects\dontStepOnTheWhiteTile\dontStepOnTheWhiteTile\bin\Debug\dontStepOnTheWhiteTile.pdb
+E:\Old Laptop\Projects\dontStepOnTheWhiteTile\dontStepOnTheWhiteTile\obj\Debug\dontStepOnTheWhiteTile.csprojResolveAssemblyReference.cache
+E:\Old Laptop\Projects\dontStepOnTheWhiteTile\dontStepOnTheWhiteTile\obj\Debug\dontStepOnTheWhiteTile.Form1.resources
+E:\Old Laptop\Projects\dontStepOnTheWhiteTile\dontStepOnTheWhiteTile\obj\Debug\dontStepOnTheWhiteTile.Properties.Resources.resources
+E:\Old Laptop\Projects\dontStepOnTheWhiteTile\dontStepOnTheWhiteTile\obj\Debug\dontStepOnTheWhiteTile.csproj.GenerateResource.Cache
+C:\Users\Parikh\Desktop\PROJECTS\Dont_Step_On_The_White_Tile\dontStepOnTheWhiteTile\bin\Debug\dontStepOnTheWhiteTile.exe.config
+C:\Users\Parikh\Desktop\PROJECTS\Dont_Step_On_The_White_Tile\dontStepOnTheWhiteTile\obj\Debug\dontStepOnTheWhiteTile.exe
+C:\Users\Parikh\Desktop\PROJECTS\Dont_Step_On_The_White_Tile\dontStepOnTheWhiteTile\obj\Debug\dontStepOnTheWhiteTile.pdb
+C:\Users\Parikh\Desktop\PROJECTS\Dont_Step_On_The_White_Tile\dontStepOnTheWhiteTile\bin\Debug\dontStepOnTheWhiteTile.exe
+C:\Users\Parikh\Desktop\PROJECTS\Dont_Step_On_The_White_Tile\dontStepOnTheWhiteTile\bin\Debug\dontStepOnTheWhiteTile.pdb
+C:\Users\Parikh\Desktop\PROJECTS\Dont_Step_On_The_White_Tile\dontStepOnTheWhiteTile\obj\Debug\dontStepOnTheWhiteTile.csprojResolveAssemblyReference.cache
+C:\Users\Parikh\Desktop\PROJECTS\Dont_Step_On_The_White_Tile\dontStepOnTheWhiteTile\obj\Debug\dontStepOnTheWhiteTile.Form1.resources
+C:\Users\Parikh\Desktop\PROJECTS\Dont_Step_On_The_White_Tile\dontStepOnTheWhiteTile\obj\Debug\dontStepOnTheWhiteTile.Properties.Resources.resources
+C:\Users\Parikh\Desktop\PROJECTS\Dont_Step_On_The_White_Tile\dontStepOnTheWhiteTile\obj\Debug\dontStepOnTheWhiteTile.csproj.GenerateResource.Cache
+C:\Users\Parikh\Desktop\MASTER-PROJECTS\Dont_Step_On_The_White_Tile\dontStepOnTheWhiteTile\bin\Debug\dontStepOnTheWhiteTile.exe.config
+C:\Users\Parikh\Desktop\MASTER-PROJECTS\Dont_Step_On_The_White_Tile\dontStepOnTheWhiteTile\obj\Debug\dontStepOnTheWhiteTile.exe
+C:\Users\Parikh\Desktop\MASTER-PROJECTS\Dont_Step_On_The_White_Tile\dontStepOnTheWhiteTile\obj\Debug\dontStepOnTheWhiteTile.pdb
+C:\Users\Parikh\Desktop\MASTER-PROJECTS\Dont_Step_On_The_White_Tile\dontStepOnTheWhiteTile\bin\Debug\dontStepOnTheWhiteTile.exe
+C:\Users\Parikh\Desktop\MASTER-PROJECTS\Dont_Step_On_The_White_Tile\dontStepOnTheWhiteTile\bin\Debug\dontStepOnTheWhiteTile.pdb
+C:\Users\Parikh\Desktop\MASTER-PROJECTS\Dont_Step_On_The_White_Tile\dontStepOnTheWhiteTile\obj\Debug\dontStepOnTheWhiteTile.csprojResolveAssemblyReference.cache
+C:\Users\Parikh\Desktop\MASTER-PROJECTS\Dont_Step_On_The_White_Tile\dontStepOnTheWhiteTile\obj\Debug\dontStepOnTheWhiteTile.Form1.resources
+C:\Users\Parikh\Desktop\MASTER-PROJECTS\Dont_Step_On_The_White_Tile\dontStepOnTheWhiteTile\obj\Debug\dontStepOnTheWhiteTile.Properties.Resources.resources
+C:\Users\Parikh\Desktop\MASTER-PROJECTS\Dont_Step_On_The_White_Tile\dontStepOnTheWhiteTile\obj\Debug\dontStepOnTheWhiteTile.csproj.GenerateResource.Cache

@@ -62,14 +62,6 @@ namespace dontStepOnTheWhiteTile
             // Make random box in row black
             randomNumber = random.Next(4);
             tiles[i * 4 + randomNumber].BackColor = fillBoxC;   
-            
-            // Place start text
-            if (i == 0)
-            {
-                startLabel.Location = new Point
-                    (randomNumber * tiles[0].Size.Width,
-                    startLabel.Location.Y);
-            }      
         }
 
         // Color each row with one unique black box
@@ -89,7 +81,6 @@ namespace dontStepOnTheWhiteTile
             {
                 longRunTimer.Start();
                 boxesPassed.Visible = true;
-                startLabel.Visible = false;
             }
 
             // Add to the score and display
@@ -221,7 +212,6 @@ namespace dontStepOnTheWhiteTile
             // Reset labels
             Timer.Text = longRunTick.ToString() + "\"";
             boxesPassed.Text = boxpass.ToString();
-            startLabel.Visible = true;
 
 
             // Draw the new tiles

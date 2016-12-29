@@ -50,7 +50,6 @@
             this.Timer = new System.Windows.Forms.Label();
             this.boxesPassed = new System.Windows.Forms.Label();
             this.newGameButton = new System.Windows.Forms.Button();
-            this.startLabel = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
@@ -290,24 +289,11 @@
             this.newGameButton.Visible = false;
             this.newGameButton.Click += new System.EventHandler(this.NewGame_Click);
             // 
-            // startLabel
-            // 
-            this.startLabel.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.startLabel.Font = new System.Drawing.Font("Modern No. 20", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.startLabel.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.startLabel.Location = new System.Drawing.Point(170, 461);
-            this.startLabel.Name = "startLabel";
-            this.startLabel.Size = new System.Drawing.Size(84, 23);
-            this.startLabel.TabIndex = 19;
-            this.startLabel.Text = "START";
-            this.startLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(340, 540);
-            this.Controls.Add(this.startLabel);
             this.Controls.Add(this.newGameButton);
             this.Controls.Add(this.boxesPassed);
             this.Controls.Add(this.Timer);
@@ -377,7 +363,6 @@
         private System.Windows.Forms.Label Timer;
         private System.Windows.Forms.Label boxesPassed;
         private System.Windows.Forms.Button newGameButton;
-        private System.Windows.Forms.Label startLabel;
     }
 }
 
